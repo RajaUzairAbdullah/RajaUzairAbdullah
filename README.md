@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajauzairabdullah" alt="rajauzairabdullah" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iuzair" target="blank"><img src="https://img.shields.io/twitter/follow/uzairaja?logo=twitter&style=for-the-badge" alt="uzairaja" /></a> </p>
+<p align="left"> <a href="https://twitter.com/uzairaja" target="blank"><img src="https://img.shields.io/twitter/follow/uzairaja?logo=twitter&style=for-the-badge" alt="uzairaja" /></a> </p>
 
 - 💬 Ask me about **Penetration Testing and Application Security**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iuzair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iuzair" height="30" width="40" /></a>
+<a href="https://twitter.com/uzairaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iuzair" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajauzairabdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajauzairabdullah" height="30" width="40" /></a>
 </p>
 
