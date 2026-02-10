@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajauzairabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="rajauzairabdullah" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajauzairabdullah" alt="rajauzairabdullah" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajauzairabdullah" alt="rajauzairabdullah" /></a> </p> -->
 
 
 <p><a href="https://twitter.com/uzairaja"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
